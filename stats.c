@@ -1,3 +1,25 @@
+/*********************************************************************************************************************
+ *     Copyright (C) 2020 by SAURABH PATIL - GOA COLLEGE OF ENGINEERING.
+ *      
+ *     Redistribution, modification or use of this software in source or binary
+ *     forms is permitted as long as the files maintain this copyright
+ *             
+ *********************************************************************************************************************/
+/**
+ *     
+ *     @file stats.c
+ *     @brief this file is used to find stastistical parameters of an arrray.
+ *
+ *     this is excecutionable file with an extention of .c which includes all the functions along with 
+ *     their discriptions that perfrom statistical operations on the array such as mean ,median, maximum and minimum.
+ *     apart from this it will also sort the array in descending order. 
+ *                
+ *     @author SAURABH PATIL
+ *     @date 15 August 2020
+ *                
+ */
+
+
 
 #include<stdio.h>
 
